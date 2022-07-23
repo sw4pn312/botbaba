@@ -67,7 +67,7 @@ global.botname = 'Dil Mange More' //ur bot name
 global.linkz = "https://instagram.com/sw4pn3?igshid=YmMyMTA2M2Y=" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/sw4pn3?igshid=YmMyMTA2M2Y=" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "😉" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
 global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
 global.author = "🦄SW4PN3" //ur sticker watermark author
